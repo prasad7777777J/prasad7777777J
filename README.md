@@ -1,11 +1,10 @@
 # 💫 About Me:
-👋 Hi, I'm Sai Prasad  <br><br>I'm a Data Science and Machine Learning enthusiast with experience in building end-to-end ML and Generative AI solutions.  <br><br>💡 My interests include:<br>- Machine Learning & Deep Learning  <br>- Generative AI & RAG Systems  <br>- NLP & LLM Applications  <br>- MLOps & Model Deployment  <br><br>🛠 Tech Stack:<br>Python | SQL | Scikit-Learn | TensorFlow | PyTorch  <br>LangChain | Pinecone | FastAPI | Streamlit  <br>Hugging Face | REST APIs | Postman  <br><br>I enjoy turning data into actionable insights and building scalable AI-powered applications.  <br><br>📌 Currently exploring advanced LLM architectures and production-ready AI systems.
+👋 Hi, I'm Sai Prasad  <br><br>I'm a Data Science and Machine Learning enthusiast with experience in building end-to-end ML and Generative AI solutions.  <br><br>💡 My interests include:<br>- Machine Learning & Deep Learning  <br>- Generative AI & RAG Systems  <br>- NLP & LLM Applications  <br>- MLOps & Model Deployment  <br><br>📌 Currently exploring advanced LLM architectures and production-ready AI systems.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai__prasad______?igsh=NTFqcGRod2tiZjVp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-prasad-kommineni-01aa51168/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psai28073@gmail.com) 
 
-# 💻 Tech Stack:
 # 💻 Tech Stack:
 
 ### 👨‍💻 Programming
@@ -74,6 +73,7 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apache&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prasad7777777J&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prasad7777777J&theme=dark&hide_border=false)<br/>
