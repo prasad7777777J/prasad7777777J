@@ -46,6 +46,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML-Structure-orange?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=for-the-badge)
+![React](https://img.shields.io/badge/React-Frontend-lightblue?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-API-black?style=for-the-badge)
+
 ### 🌐 API & App Development
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
